@@ -1,5 +1,5 @@
 const UserValidator = require('../validators/UserValidator')
-const PasswordHelper = require('../utils/passwordHelper')
+const PasswordHelper = require('../utils/PasswordHelper')
 
 class UserService {
     constructor(userRepository) {
@@ -7,6 +7,9 @@ class UserService {
     }
 
     async createUser(userData) {
+
         
     }
 }
+
+module.exports = UserService

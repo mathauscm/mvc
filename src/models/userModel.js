@@ -1,6 +1,6 @@
 const fs = require('fs').promises
 const path = require('path')
-const EmailHelper = require('../utils/emailHelper') // 👈 Importar o helper
+const EmailHelper = require('../utils/EmailHelper')
 
 const refencePath = path.join(__dirname, '../../data/userData.json')
 
