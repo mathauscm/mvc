@@ -1,0 +1,24 @@
+[
+  {
+    "id": "00",
+    "name": "M",
+    "email": "m@email.com",
+    "password": "$2a$10$rOq.V8ZqTQ5jKqX8rOq.V8ZqTQ5jKqX8rOq.V8ZqTQ5jKqX8rOq.V8Z",
+    "createdAt": "14/06/2025, 01:43:54",
+    "updatedAt": "16/06/2025, 20:21:58"
+  },
+  {
+    "id": "01",
+    "name": "Ana Silva",
+    "email": "ana@email.com",
+    "password": "$2b$10$5422c3ZpS3I.qIcanCmXNe/3HFinQIXeC98Zkg9bCE56TKVQYo9qC",
+    "createdAt": "19/06/2025, 10:28:11"
+  },
+  {
+    "id": "02",
+    "name": "Admin",
+    "email": "admin@email.com",
+    "password": "$2b$10$pkf.sAlCpLFmTFeOjzYzA.95jVp4wBmmnIGYxYEwdGb0w4eLJnwE2",
+    "createdAt": "19/06/2025, 10:48:06"
+  }
+]
