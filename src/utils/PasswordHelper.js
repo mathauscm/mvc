@@ -68,4 +68,4 @@ class PasswordHelper {
     }
 }
 
-module.exports = PasswordHelper;
+module.exports = PasswordHelper
