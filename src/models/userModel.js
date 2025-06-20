@@ -162,20 +162,3 @@ class Crud {
 }
 
 module.exports = Crud
-
-// Teste
-// const user = {
-//     "name": "Mathaus",
-//     "email": "mathauscarvalho@gmail.com"
-// }
-
-async function main() {
-    const manager = new Crud()
-    // await manager.createUser(user)
-    // await manager.getAllUsers()
-    // await manager.getUserById("06")
-    // await manager.updateUser("06", { name: "Luiz Silva" }) 
-    // await manager.updateUser("06", { email: "luizsilva@email.com" }) 
-}
-
-main()
